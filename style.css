@@ -6,16 +6,38 @@ body {
 
 h1{
     color:grey;
-    font-family:verdana
+    font-family:verdana;
+	text-align: center;
+
 }
 
 .maindiv {
     background-color:white;
     color:black;
-    width:300px;
+    width:30%;
     padding:20px;
     border-radius:25px;
-    align:center;
+    margin: auto;
+	
+}
+
+div.a{
+	text-indent:15%;
+}
+
+div.b{
+	text-indent:15%;
+}
+
+div.c{
+	text-indent:15%;
+}
+
+div.d{
+	text-indent:15%;
 }
 
 
+footer {
+	align:justify;
+}
